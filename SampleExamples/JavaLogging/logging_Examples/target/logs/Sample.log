@@ -1,0 +1,89 @@
+2022-02-26 08:34:40 INFO  Example:15 - Hi This is my first Logging  program using log4j1.2
+2022-02-26 08:34:40 INFO  AnotherLogger:9 - Hi, Welcome to Simple Logging Tecnique {}THis is using Simple LOgging Technique
+2022-02-26 08:34:40 INFO  JclExample:7 - This program is using jcl
+2022-02-26 08:34:40 INFO  JclExample:8 - info in the main method
+2022-02-26 08:34:40 ERROR JclExample:9 - error in the main method
+2022-02-26 08:35:19 INFO  Example:15 - Hi This is my first Logging  program using log4j1.2
+2022-02-26 08:35:19 INFO  AnotherLogger:9 - Hi, Welcome to Simple Logging Tecnique {}THis is using Simple LOgging Technique
+2022-02-26 08:35:19 INFO  JclExample:7 - This program is using jcl
+2022-02-26 08:35:19 INFO  JclExample:8 - info in the main method
+2022-02-26 08:35:19 ERROR JclExample:9 - error in the main method
+2022-02-26 08:39:01 INFO  Application:15 - Hi This is my first Logging  program using log4j1.2
+2022-02-26 08:39:01 INFO  AnotherLogger:9 - Hi, Welcome to Simple Logging Tecnique {}THis is using Simple LOgging Technique
+2022-02-26 08:39:01 INFO  JclExample:7 - This program is using jcl
+2022-02-26 08:39:01 INFO  JclExample:8 - info in the main method
+2022-02-26 08:39:01 ERROR JclExample:9 - error in the main method
+2022-02-26 08:48:15 INFO  Application:15 - Hi This is my first Logging  program using log4j1.2
+2022-02-26 08:48:15 INFO  MathLibrary:10 - Hi, Welcome to Simple Logging Technique
+2022-02-26 08:48:15 INFO  MathLibrary:11 - The argument -1 is 10
+2022-02-26 08:48:15 INFO  MathLibrary:12 - The argument -1 is 15
+2022-02-26 08:48:15 INFO  Application:18 - The addition of two values are 
+2022-02-26 08:48:15 INFO  JclExample:7 - This program is using jcl
+2022-02-26 08:48:15 INFO  JclExample:8 - info in the main method
+2022-02-26 08:48:15 ERROR JclExample:9 - error in the main method
+2022-02-26 08:48:49 INFO  Application:15 - Hi This is my first Logging  program using log4j1.2
+2022-02-26 08:48:49 INFO  MathLibrary:10 - Hi, Welcome to Simple Logging Technique
+2022-02-26 08:48:49 INFO  MathLibrary:11 - The argument -1 is 10
+2022-02-26 08:48:49 INFO  MathLibrary:12 - The argument -1 is 15
+2022-02-26 08:48:49 INFO  Application:18 - The addition of two values are 25
+2022-02-26 08:48:49 INFO  JclExample:7 - This program is using jcl
+2022-02-26 08:48:49 INFO  JclExample:8 - info in the main method
+2022-02-26 08:48:49 ERROR JclExample:9 - error in the main method
+2022-02-26 08:55:17 INFO  Application:15 - Hi This is my first Logging  program using log4j1.2
+2022-02-26 08:55:17 INFO  MathLibrary:10 - Hi, Welcome to Simple Logging Technique
+2022-02-26 08:55:17 INFO  MathLibrary:11 - The argument -1 is 10
+2022-02-26 08:55:17 INFO  MathLibrary:12 - The argument -1 is 15
+2022-02-26 08:55:17 INFO  Application:18 - The addition of two values are 25
+2022-02-26 08:55:17 INFO  UILibrary:7 - This program is using jcl
+2022-02-26 08:55:17 INFO  UILibrary:8 - UI Changes are incorporated
+2022-02-26 08:55:17 ERROR UILibrary:9 - Three D Design View
+2022-02-26 08:55:17 INFO  UILibrary:10 - The Three D Axis Values are X = 12
+2022-02-26 08:55:17 INFO  UILibrary:11 - The Three D Axis Values are Y = 45
+2022-02-26 08:55:17 INFO  UILibrary:12 - The Three D Axis Values are Z = 67
+2022-02-28 10:41:39 INFO  MathLibrary:11 - Hi, Welcome to Simple Logging Technique
+2022-02-28 10:45:15 INFO  Application:22 - Hi This is my first Logging  program using log4j1.2
+2022-02-28 10:47:28 INFO  Application:22 - Hi This is my first Logging  program using log4j1.2
+2022-02-28 10:47:28 INFO  MathLibrary:11 - Hi, Welcome to Simple Logging Technique
+2022-02-28 10:47:28 INFO  MathLibrary:12 - The argument -1 is 10
+2022-02-28 10:47:28 INFO  MathLibrary:13 - The argument -1 is 15
+2022-02-28 10:47:28 INFO  Application:25 - The addition of two values are 25
+2022-02-28 10:52:26 INFO  Application:22 - Hi This is my first Logging  program using log4j1.2
+2022-02-28 10:52:26 INFO  MathLibrary:11 - Hi, Welcome to Simple Logging Technique
+2022-02-28 10:52:26 INFO  MathLibrary:12 - The argument -1 is 10
+2022-02-28 10:52:26 INFO  MathLibrary:13 - The argument -1 is 15
+2022-02-28 10:52:26 INFO  Application:25 - The addition of two values are 25
+2022-02-28 10:52:26 INFO  UILibrary:7 - This program is using jcl
+2022-02-28 10:52:26 INFO  UILibrary:8 - UI Changes are incorporated
+2022-02-28 10:52:26 ERROR UILibrary:9 - Three D Design View
+2022-02-28 10:52:26 INFO  UILibrary:10 - The Three D Axis Values are X = 12
+2022-02-28 10:52:26 INFO  UILibrary:11 - The Three D Axis Values are Y = 45
+2022-02-28 10:52:26 INFO  UILibrary:12 - The Three D Axis Values are Z = 67
+2022-03-02 12:13:36 INFO  Application:22 - Hi This is my first Logging  program using log4j1.2
+2022-03-02 12:13:36 INFO  MathLibrary:11 - Hi, Welcome to Simple Logging Technique
+2022-03-02 12:13:36 INFO  MathLibrary:12 - The argument -1 is 10
+2022-03-02 12:13:36 INFO  MathLibrary:13 - The argument -1 is 15
+2022-03-02 12:13:36 INFO  Application:25 - The addition of two values are 25
+2022-03-02 12:13:36 INFO  UILibrary:7 - This program is using jcl
+2022-03-02 12:13:36 INFO  UILibrary:8 - UI Changes are incorporated
+2022-03-02 12:13:36 ERROR UILibrary:9 - Three D Design View
+2022-03-02 12:13:36 INFO  UILibrary:10 - The Three D Axis Values are X = 12
+2022-03-02 12:13:36 INFO  UILibrary:11 - The Three D Axis Values are Y = 45
+2022-03-02 12:13:36 INFO  UILibrary:12 - The Three D Axis Values are Z = 67
+2022-03-02 12:25:15 INFO  Application:22 - Hi This is my first Logging  program using log4j1.2
+2022-03-02 12:25:15 INFO  MathLibrary:12 - Hi, Welcome to Simple Logging Technique
+2022-03-02 12:25:15 INFO  MathLibrary:13 - The argument -1 is 10
+2022-03-02 12:25:15 INFO  MathLibrary:14 - The argument -1 is 15
+2022-03-02 12:25:15 INFO  Application:25 - The addition of two values are 25
+2022-03-02 12:32:08 INFO  UILibrary:8 - This program is using jcl
+2022-03-02 12:32:08 INFO  UILibrary:9 - UI Changes are incorporated
+2022-03-02 12:32:08 ERROR UILibrary:10 - Three D Design View
+2022-03-02 13:04:44 INFO  UILibrary:8 - This program is using jcl
+2022-03-02 13:04:44 INFO  UILibrary:9 - UI Changes are incorporated
+2022-03-02 13:04:44 ERROR UILibrary:10 - Three D Design View
+2022-03-02 13:09:16 INFO  UILibrary:8 - This program is using jcl
+2022-03-02 13:09:16 INFO  UILibrary:9 - UI Changes are incorporated
+2022-03-02 13:09:16 ERROR UILibrary:10 - Three D Design View
+2022-03-02 13:20:38 INFO  Application:22 - Hi This is my first Logging  program using log4j1.2
+2022-03-02 13:25:24 INFO  Application:22 - Hi This is my first Logging  program using log4j1.2
+2022-03-02 13:26:19 INFO  Application:22 - Hi This is my first Logging  program using log4j1.2
+2022-03-02 13:50:26 INFO  Application:22 - Hi This is my first Logging  program using log4j1.2
