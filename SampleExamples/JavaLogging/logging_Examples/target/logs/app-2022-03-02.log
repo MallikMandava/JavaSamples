@@ -1,0 +1,55 @@
+[INFO ] 2022-03-02 17:32:16.960 [main] Application - Hi This is my first Logging  program using log4j1.2
+[INFO ] 2022-03-02 17:32:16.960 [main] MathLibrary - Hi, Welcome to Simple Logging Technique
+[INFO ] 2022-03-02 17:32:16.960 [main] MathLibrary - The argument -1 is 10
+[INFO ] 2022-03-02 17:32:16.960 [main] MathLibrary - The argument -1 is 15
+[INFO ] 2022-03-02 17:32:16.960 [main] Application - The addition of two values are 25
+[INFO ] 2022-03-02 17:32:16.960 [main] UILibrary - This program is using jcl
+[INFO ] 2022-03-02 17:32:16.960 [main] UILibrary - UI Changes are incorporated
+[ERROR] 2022-03-02 17:32:16.960 [main] UILibrary - Three D Design View
+[INFO ] 2022-03-02 17:32:16.960 [main] UILibrary - The Three D Axis Values are X = 12
+[INFO ] 2022-03-02 17:32:16.960 [main] UILibrary - The Three D Axis Values are Y = 45
+[INFO ] 2022-03-02 17:32:16.960 [main] UILibrary - The Three D Axis Values are Z = 67
+[INFO ] 2022-03-02 17:32:27.617 [main] Application - Hi This is my first Logging  program using log4j1.2
+[INFO ] 2022-03-02 17:32:27.627 [main] MathLibrary - Hi, Welcome to Simple Logging Technique
+[INFO ] 2022-03-02 17:32:27.627 [main] MathLibrary - The argument -1 is 10
+[INFO ] 2022-03-02 17:32:27.627 [main] MathLibrary - The argument -1 is 15
+[INFO ] 2022-03-02 17:32:27.627 [main] Application - The addition of two values are 25
+[INFO ] 2022-03-02 17:32:27.627 [main] UILibrary - This program is using jcl
+[INFO ] 2022-03-02 17:32:27.627 [main] UILibrary - UI Changes are incorporated
+[ERROR] 2022-03-02 17:32:27.627 [main] UILibrary - Three D Design View
+[INFO ] 2022-03-02 17:32:27.627 [main] UILibrary - The Three D Axis Values are X = 12
+[INFO ] 2022-03-02 17:32:27.627 [main] UILibrary - The Three D Axis Values are Y = 45
+[INFO ] 2022-03-02 17:32:27.627 [main] UILibrary - The Three D Axis Values are Z = 67
+[INFO ] 2022-03-02 17:37:26.841 [main] Application - Hi This is my first Logging  program using log4j1.2
+[INFO ] 2022-03-02 17:37:26.841 [main] MathLibrary - Hi, Welcome to Simple Logging Technique
+[INFO ] 2022-03-02 17:37:26.841 [main] MathLibrary - The argument -1 is 10
+[INFO ] 2022-03-02 17:37:26.841 [main] MathLibrary - The argument -1 is 15
+[INFO ] 2022-03-02 17:37:26.841 [main] Application - The addition of two values are 25
+[INFO ] 2022-03-02 17:37:26.841 [main] UILibrary - This program is using jcl
+[INFO ] 2022-03-02 17:37:26.841 [main] UILibrary - UI Changes are incorporated
+[ERROR] 2022-03-02 17:37:26.841 [main] UILibrary - Three D Design View
+[INFO ] 2022-03-02 17:37:26.841 [main] UILibrary - The Three D Axis Values are X = 12
+[INFO ] 2022-03-02 17:37:26.841 [main] UILibrary - The Three D Axis Values are Y = 45
+[INFO ] 2022-03-02 17:37:26.841 [main] UILibrary - The Three D Axis Values are Z = 67
+[INFO ] 2022-03-02 18:01:39.249 [main] Application - Hi This is my first Logging  program using log4j1.2
+[INFO ] 2022-03-02 18:01:39.260 [main] MathLibrary - Hi, Welcome to Simple Logging Technique
+[INFO ] 2022-03-02 18:01:39.260 [main] MathLibrary - The argument -1 is 10
+[INFO ] 2022-03-02 18:01:39.260 [main] MathLibrary - The argument -1 is 15
+[INFO ] 2022-03-02 18:01:39.260 [main] Application - The addition of two values are 25
+[INFO ] 2022-03-02 18:01:39.268 [main] UILibrary - This program is using jcl
+[INFO ] 2022-03-02 18:01:39.268 [main] UILibrary - UI Changes are incorporated
+[ERROR] 2022-03-02 18:01:39.268 [main] UILibrary - Three D Design View
+[INFO ] 2022-03-02 18:01:39.268 [main] UILibrary - The Three D Axis Values are X = 12
+[INFO ] 2022-03-02 18:01:39.268 [main] UILibrary - The Three D Axis Values are Y = 45
+[INFO ] 2022-03-02 18:01:39.268 [main] UILibrary - The Three D Axis Values are Z = 67
+[INFO ] 2022-03-02 18:03:04.114 [main] Application - Hi This is my first Logging  program using log4j1.2
+[INFO ] 2022-03-02 18:03:04.124 [main] MathLibrary - Hi, Welcome to Simple Logging Technique
+[INFO ] 2022-03-02 18:03:04.124 [main] MathLibrary - The argument -1 is 10
+[INFO ] 2022-03-02 18:03:04.124 [main] MathLibrary - The argument -1 is 15
+[INFO ] 2022-03-02 18:03:04.124 [main] Application - The addition of two values are 25
+[INFO ] 2022-03-02 18:03:04.127 [main] UILibrary - This program is using jcl
+[INFO ] 2022-03-02 18:03:04.127 [main] UILibrary - UI Changes are incorporated
+[ERROR] 2022-03-02 18:03:04.127 [main] UILibrary - Three D Design View
+[INFO ] 2022-03-02 18:03:04.127 [main] UILibrary - The Three D Axis Values are X = 12
+[INFO ] 2022-03-02 18:03:04.127 [main] UILibrary - The Three D Axis Values are Y = 45
+[INFO ] 2022-03-02 18:03:04.127 [main] UILibrary - The Three D Axis Values are Z = 67
